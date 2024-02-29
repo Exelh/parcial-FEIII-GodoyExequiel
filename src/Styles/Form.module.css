@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 6px solid #b9b5b5;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #3b3a37;
+    color: white;
+    box-shadow: 30px 24px 36px rgba(0, 0, 0, 0.1); 
+}
+.formulario{
+    display: flex;
+    flex-direction: column; 
+    height: 150px;
+}
+
+button{
+    margin: 15px;
+    background-color:  #FDCA40;
+}

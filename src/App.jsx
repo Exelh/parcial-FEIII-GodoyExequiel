@@ -1,24 +1,11 @@
 import './App.css'
-import Card from './components/Card.jsx'
-
-
+import Form from "./components/Form.jsx"
 
 function App() {
-
-
   return (
     <>
-   
-      <div>
-        <h1>Carga de estudiantes</h1>
-        <form>
-            <button>Registrar</button>
-        </form>
-        <Card/>
-      </div>
-    
+        <Form/>
     </>
   )
 }
-
 export default App
